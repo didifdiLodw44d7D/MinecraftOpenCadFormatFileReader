@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MinecraftOpenCadFormatFileReader/1.0.0": {
+        "dependencies": {
+          "CoreRCON": "5.0.5"
+        },
+        "runtime": {
+          "MinecraftOpenCadFormatFileReader.dll": {}
+        }
+      },
+      "CoreRCON/5.0.5": {
+        "dependencies": {
+          "System.IO.Pipelines": "6.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/CoreRCON.dll": {
+            "assemblyVersion": "5.0.5.0",
+            "fileVersion": "5.0.5.0"
+          }
+        }
+      },
+      "System.IO.Pipelines/6.0.2": {
+        "runtime": {
+          "lib/net6.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.222.6406"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinecraftOpenCadFormatFileReader/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreRCON/5.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TCHEqAQBCe+MGxrLut+4iJnN9K1HGLMzzPGS6i1Aa4ZdmaH3HVHb7KYBtQJrHD3A7lgRqKLuUxPxSEITObF88g==",
+      "path": "corercon/5.0.5",
+      "hashPath": "corercon.5.0.5.nupkg.sha512"
+    },
+    "System.IO.Pipelines/6.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cb5OfQjnz+zjpJJei+f3QYK7+wWZrDdNHf3DykO6QCacpNZ80tuNgq1DC2kqlrjfEu+cMUTvulxPIrCMbBkjqg==",
+      "path": "system.io.pipelines/6.0.2",
+      "hashPath": "system.io.pipelines.6.0.2.nupkg.sha512"
+    }
+  }
+}

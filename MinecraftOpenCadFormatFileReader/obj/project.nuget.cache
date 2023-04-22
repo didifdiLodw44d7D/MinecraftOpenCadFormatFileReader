@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zh2udfmhr1mJaF2ypRio+2IBuUKwSOwFBmpmd+Iibic0aTCIPrbrmdsl9ZqVGibSdQSaQbGZPp9uM00YGsojrQ==",
+  "success": true,
+  "projectFilePath": "D:\\vs2023\\MinecraftOpenCadFormatFileReader\\MinecraftOpenCadFormatFileReader\\MinecraftOpenCadFormatFileReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\telle\\.nuget\\packages\\corercon\\5.0.5\\corercon.5.0.5.nupkg.sha512",
+    "C:\\Users\\telle\\.nuget\\packages\\system.io.pipelines\\6.0.2\\system.io.pipelines.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
